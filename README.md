@@ -1,6 +1,13 @@
-### Bonjour 👋
-- 🌱 Actuellement a Epitech pour faire un master (bac+5)
+### Bienvenue sur mon profil GitHub 👋
 
+Je suis Ryan THOMAS, Passionné d'informatique, j'ai ces dernières années appris beaucoup de langage de développement, de la base de données SQL à l'interface utilisateur grâce au JSP de JAVA en passant par des controllers avec des API REST en PHP Symphony.
+
+- 🌱  Actuellement a Epitech Montpellier pour faire un master (bac+5), je travaille pour devenir Developpeur application/logiciel.
+- 💼 Je suis actuellement en recherche d'alternance pour mes études a Epitech.
+- 🎓 Je détiens un diplome (bac+3) ADMINISTRATEUR DES SYSTÈMES D'INFORMATION.
+- 😄 Mes passions incluent le développement informatique , la musique et les jeux en général.
+- 💬 n'hésitez pas a mes contacter : https://www.linkedin.com/in/ryan-thomas-215916185/
+N'hésitez pas à explorer mes projets et à me contacter si vous souhaitez discuter ou collaborer sur des projets passionnants.
 
 <!--
 **crysy-rThomas/crysy-rthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
