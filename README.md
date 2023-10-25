@@ -7,6 +7,7 @@ Je suis Ryan THOMAS, Passionné d'informatique, j'ai ces dernières années appr
 - 🎓 Je détiens un diplome (bac+3) ADMINISTRATEUR DES SYSTÈMES D'INFORMATION.
 - 😄 Mes passions incluent le développement informatique , la musique et les jeux en général.
 - 💬 n'hésitez pas a mes contacter : https://www.linkedin.com/in/ryan-thomas-215916185/
+  
 N'hésitez pas à explorer mes projets et à me contacter si vous souhaitez discuter ou collaborer sur des projets passionnants.
 
 <!--
