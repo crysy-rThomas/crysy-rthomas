@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour 👋
+- 🌱 Actuellement a Epitech pour faire un master (bac+5)
+
 
 <!--
 **crysy-rThomas/crysy-rthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
