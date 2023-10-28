@@ -4,6 +4,7 @@ Je suis Ryan THOMAS, Passionné d'informatique, j'ai ces dernières années appr
 
 - 🌱  Actuellement a Epitech Montpellier pour faire un master (bac+5), je travaille pour devenir Developpeur application/logiciel.
 - 💼 Je suis actuellement en recherche d'alternance pour mes études a Epitech.
+- ✨ je travaille en ce moment même sur une petite API en Élixir avec le framework Phoenix, ce projet est proposé par Epitech pour la piscine de début d'année
 - 🎓 Je détiens un diplome (bac+3) ADMINISTRATEUR DES SYSTÈMES D'INFORMATION.
 - 😄 Mes passions incluent le développement informatique , la musique et les jeux en général.
 - 💬 n'hésitez pas a mes contacter : https://www.linkedin.com/in/ryan-thomas-215916185/
